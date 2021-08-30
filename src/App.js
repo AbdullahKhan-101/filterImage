@@ -1,11 +1,11 @@
 import React from "react";
 import "./App.css";
-import Gallery from "./components/Gallery.js";
+import Cart from "./components/Cart";
 
 const App = () => {
   return (
     <div>
-      <Gallery />
+      <Cart />
     </div>
   );
 };
